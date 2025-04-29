@@ -1,16 +1,15 @@
-## Hi there 👋
+🙋‍♂️ I am Lance Petrisko, a Software Development student at University of Utah. I am currently pursuing my Bachelor's in Software Development and plan to graduate in 2028.
 
-<!--
-**Toaster-Ui/Toaster-Ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌳 I mainly program in the languages:
+Java
+Python
 
-Here are some ideas to get you started:
+🌱 And I just started learning:
+Lua
+HTML
+CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 You can reach me at:
+
+My Personal Email: petriskolance@gmail.com
+My School Email: u1520070@utah.edu
